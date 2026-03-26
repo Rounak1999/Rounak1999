@@ -1,6 +1,15 @@
 # 👋 Hi, I'm Rounak Gour  
 💻 Frontend Developer | React • Angular • Next.js  
-🚀 Passionate about building scalable and user-friendly web apps  
+🚀 Building scalable, high-performance & user-friendly web applications  
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer with hands-on experience in real-world projects  
+- ⚛️ Strong expertise in React, Angular & modern UI architectures  
+- 🔗 Experience with APIs, microservices & real-time integrations  
+- 🎯 Focused on performance optimization & clean code practices  
 
 ---
 
@@ -56,10 +65,40 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏢 Digital Menu SaaS
+- 🍽️ Multi-restaurant QR-based digital menu platform  
+- 🌐 Subdomain-based system for each restaurant  
+- ⚙️ Admin dashboard for menu & product management  
+- 🛠️ Tech: React, Node.js, MongoDB  
+
+🔗 Live: https://rounak-gour-portfolio.vercel.app/  
+🔗 Code: https://github.com/Rounak1999  
+
+---
+
+### 🏡 Real Estate Web App
+- 🏘️ Property listing with filters & search  
+- ⚡ Fast UI with modern design  
+- 📱 Fully responsive  
+
+🔗 Live: https://rounak-gour-portfolio.vercel.app/  
+🔗 Code: https://github.com/Rounak1999  
+
+---
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rounak1999&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak1999&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rounak1999&theme=dark&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rounak1999&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak1999&theme=dark&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Rounak1999&theme=react-dark)
 
 ---
 
