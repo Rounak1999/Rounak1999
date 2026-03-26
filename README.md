@@ -65,32 +65,8 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏢 Digital Menu SaaS
-- 🍽️ Multi-restaurant QR-based digital menu platform  
-- 🌐 Subdomain-based system for each restaurant  
-- ⚙️ Admin dashboard for menu & product management  
-- 🛠️ Tech: React, Node.js, MongoDB  
-
-🔗 Live: https://rounak-gour-portfolio.vercel.app/  
-🔗 Code: https://github.com/Rounak1999  
-
----
-
-### 🏡 Real Estate Web App
-- 🏘️ Property listing with filters & search  
-- ⚡ Fast UI with modern design  
-- 📱 Fully responsive  
-
-🔗 Live: https://rounak-gour-portfolio.vercel.app/  
-🔗 Code: https://github.com/Rounak1999  
-
----
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Rounak1999&theme=dark&show_icons=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rounak1999&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rounak1999&theme=dark&layout=compact)
 
@@ -99,18 +75,6 @@
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Rounak1999&theme=react-dark)
-
----
-
-## 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=Rounak1999&theme=radical&no-frame=true&margin-w=4)
-
----
-
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=Rounak1999&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
